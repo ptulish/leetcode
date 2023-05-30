@@ -1,0 +1,15 @@
+/Users/lernraum/Desktop/Studium/coding/leetcode/leetcode/bin/Debug/net6.0/leetcode
+/Users/lernraum/Desktop/Studium/coding/leetCode/leetcode/bin/Debug/net6.0/leetcode.deps.json
+/Users/lernraum/Desktop/Studium/coding/leetCode/leetcode/bin/Debug/net6.0/leetcode.runtimeconfig.json
+/Users/lernraum/Desktop/Studium/coding/leetcode/leetcode/bin/Debug/net6.0/leetcode.dll
+/Users/lernraum/Desktop/Studium/coding/leetcode/leetcode/bin/Debug/net6.0/leetcode.pdb
+/Users/lernraum/Desktop/Studium/coding/leetcode/leetcode/obj/Debug/net6.0/leetcode.csproj.AssemblyReference.cache
+/Users/lernraum/Desktop/Studium/coding/leetcode/leetcode/obj/Debug/net6.0/leetcode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lernraum/Desktop/Studium/coding/leetcode/leetcode/obj/Debug/net6.0/leetcode.AssemblyInfoInputs.cache
+/Users/lernraum/Desktop/Studium/coding/leetcode/leetcode/obj/Debug/net6.0/leetcode.AssemblyInfo.cs
+/Users/lernraum/Desktop/Studium/coding/leetcode/leetcode/obj/Debug/net6.0/leetcode.csproj.CoreCompileInputs.cache
+/Users/lernraum/Desktop/Studium/coding/leetcode/leetcode/obj/Debug/net6.0/leetcode.dll
+/Users/lernraum/Desktop/Studium/coding/leetcode/leetcode/obj/Debug/net6.0/refint/leetcode.dll
+/Users/lernraum/Desktop/Studium/coding/leetcode/leetcode/obj/Debug/net6.0/leetcode.pdb
+/Users/lernraum/Desktop/Studium/coding/leetCode/leetcode/obj/Debug/net6.0/leetcode.genruntimeconfig.cache
+/Users/lernraum/Desktop/Studium/coding/leetCode/leetcode/obj/Debug/net6.0/ref/leetcode.dll
